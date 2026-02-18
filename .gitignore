@@ -1,2 +1,5 @@
-# API keys — never push this to GitHub
-config.js
+
+# Environment variables
+.env
+.env.local
+.env.production
