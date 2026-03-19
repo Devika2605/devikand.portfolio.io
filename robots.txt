@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://devikand.vercel.app/sitemap.xml
